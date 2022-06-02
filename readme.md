@@ -5,6 +5,8 @@ Merhaba!
 
 Bu tezi yürüten öğrenciler olarak tezde kullandığımız ve projemizi başarıyla tamamlamamızı sağlayan kodları burada paylaşıyoruz. **iyi bir tezin sıfırdan tekrar edilebilir tez olduğuna inanıyor** ve bu yazıları okuyanların bu projeyi tekrar gerçekleyebilmesi için bütün kodları paylaşıyoruz.
 
+Ayrıca tez süresince desteğini bizden esirgemeyen danışman hocamız sayın [Doç.Dr. Janset DAŞDEMİR](https://avesis.yildiz.edu.tr/janset) hocamıza teşekkürü borç biliriz.
+
 [Berke MİRAÇ](https://www.linkedin.com/in/berkemirac/) - [Alperen KILIÇ](https://www.linkedin.com/in/alperenkilic/) - [Koray MURADOĞLU](https://www.linkedin.com/in/koraymuradoglu/)
 
 ![enter image description here](https://raw.githubusercontent.com/alperenkilic/robot-supurge-icin-gezinim-ve-engelden-kacinma/main/robot-gorsel.png)
